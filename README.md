@@ -1,2 +1,4 @@
 # kafka_producer
-Sample Apache Kafka producer in ruby
+This document contains implimentation steps for apache kafka producer in ruby. Please modify according to your implementation.
+
+Please mail me at hansrajchoudhary@gmail.com for further helps.

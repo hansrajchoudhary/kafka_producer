@@ -1,0 +1,3 @@
+brokers:
+    - ip1:port1
+    - ip2:port2

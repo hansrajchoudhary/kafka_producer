@@ -1,0 +1,4 @@
+Required gems:
+-------------------- 
+poseidon => as a kafka client
+murmurhash3 => hashing gem
